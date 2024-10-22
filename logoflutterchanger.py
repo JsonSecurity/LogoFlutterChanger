@@ -4,7 +4,6 @@ from PIL import Image
 from time import sleep as delay
 
 import uscript as u
-import cv2
 import shutil
 import os
 import glob
