@@ -13,7 +13,7 @@ pip install requirements.txt
 
 - First enter the path to the project where the images to be replaced are located, for example.
 
-`C:\Users\[user]\AndroidStudioProjects\servotuner\android\app\src\main\res`
+`C:\Users\[user]\AndroidStudioProjects\[project]\android\app\src\main\res`
 
 - Then enter your custom logo, the change will be made respecting the size of the images found above, for example.
 
