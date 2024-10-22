@@ -9,6 +9,6 @@ Example of first path:
 
 Example of path image:  
 
-`C:\src\\imagen.png`
+`C:\src\imagen.png`
 
 <img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="840" />
