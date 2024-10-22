@@ -1,8 +1,6 @@
 # LogoFlutterChanger
 This repository is used to change the logo of applications with Flutter in a simple way.
 
-![python](https://img.shields.io/badge/python-yellow)
-
 Example of first path:  
 `C:\Users\[user]\AndroidStudioProjects\servotuner\android\app\src\main\res`
 
