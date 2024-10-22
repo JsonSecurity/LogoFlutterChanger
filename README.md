@@ -11,4 +11,4 @@ Example of path image:
 
 `C:\src\\imagen.png`
 
-<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="1000" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts//logoflutterchanger.png" width="840" />
