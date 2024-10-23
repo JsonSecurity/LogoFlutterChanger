@@ -72,7 +72,8 @@ def bar(time=2, message='Loading', large=60):
     print('')
     porcentaje = 0
     bar = _B
-    for p in range(0, 101):
+    iteration = time / 100
+    for p in range(101):
         i = int(large * (p/100))
         barra = '█' * i + '-' * int(large-i)
         
@@ -81,7 +82,7 @@ def bar(time=2, message='Loading', large=60):
         #    bar = _B
         #else:
         #    bar = R
-        sleep(time/1000)
+        sleep(iteration)
     print('')
 
 def clear():
