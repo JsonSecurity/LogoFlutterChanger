@@ -6,7 +6,7 @@ This repository is used to change the logo of applications with Flutter in a sim
 ### Requirements
 
 ```
-pip -r install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage
